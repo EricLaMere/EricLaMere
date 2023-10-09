@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love bowling!
 
 ## Education: Northeastern University
+## Major: Computer Science
+## Grad Date: 2027
