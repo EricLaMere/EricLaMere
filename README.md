@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love bowling!
--->
+
+## Education: Northeastern University
